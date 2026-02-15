@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_light">#818CF8</color>
+    <color name="primary_container">#E0E7FF</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#EC4899</color>
+    <color name="secondary_dark">#DB2777</color>
+    <color name="secondary_light">#F472B6</color>
+    <color name="secondary_container">#FCE7F3</color>
+
+    <!-- Tertiary Colors -->
+    <color name="tertiary">#14B8A6</color>
+    <color name="tertiary_dark">#0D9488</color>
+    <color name="tertiary_light">#5EEAD4</color>
+
+    <!-- Background Colors -->
+    <color name="bg_main">#F8FAFC</color>
+    <color name="bg_surface">#FFFFFF</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_chat">#F1F5F9</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#6366F1</color>
+    <color name="gradient_end">#EC4899</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_tertiary">#94A3B8</color>
+    <color name="text_hint">#CBD5E1</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Message Bubble Colors -->
+    <color name="bubble_sent">#6366F1</color>
+    <color name="bubble_sent_text">#FFFFFF</color>
+    <color name="bubble_received">#FFFFFF</color>
+    <color name="bubble_received_text">#0F172A</color>
+
+    <!-- Status Colors -->
+    <color name="online_green">#22C55E</color>
+    <color name="offline_gray">#94A3B8</color>
+    <color name="unread_badge">#EF4444</color>
+    <color name="pending_yellow">#F59E0B</color>
+
+    <!-- Divider & Borders -->
+    <color name="divider">#E2E8F0</color>
+    <color name="border_light">#F1F5F9</color>
+
+    <!-- Glassmorphism -->
+    <color name="glass_white">#80FFFFFF</color>
+    <color name="glass_dark">#1A000000</color>
+
+    <!-- Avatar Colors -->
+    <color name="avatar_1">#6366F1</color>
+    <color name="avatar_2">#EC4899</color>
+    <color name="avatar_3">#14B8A6</color>
+    <color name="avatar_4">#F59E0B</color>
+    <color name="avatar_5">#8B5CF6</color>
+    <color name="avatar_6">#06B6D4</color>
+
+    <color name="ic_launcher_background">#6366F1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Status Bar -->
+    <color name="status_bar">#4F46E5</color>
+    <color name="navigation_bar">#FFFFFF</color>
+</resources>
