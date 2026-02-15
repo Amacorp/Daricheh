@@ -4,7 +4,7 @@
 
 ## About
 
-Daricheh (درچه) is a decentralized messaging app that works completely offline. It uses Bluetooth and WiFi Direct to create a mesh network between nearby devices, allowing you to send messages without internet, cellular data, or central servers.
+Daricheh (دریچه) is a decentralized messaging app that works completely offline. It uses Bluetooth and WiFi Direct to create a mesh network between nearby devices, allowing you to send messages without internet, cellular data, or central servers.
 
 ## Features
 
@@ -32,4 +32,15 @@ Daricheh (درچه) is a decentralized messaging app that works completely offli
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/daricheh.git
+   git clone https://github.com/Amacorp/daricheh.git
+
+2. Open in Android Studio and sync Gradle
+3. Run on two Android devices with Bluetooth/WiFi enabled
+
+## Permissions
+
+    Bluetooth Connect/Scan/Advertise
+    Location (for WiFi Direct)
+    Read Contacts (optional)
+
+Made with 💜 in Iran
